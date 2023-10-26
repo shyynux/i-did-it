@@ -10,3 +10,4 @@ A to-done list, a list to record your daily accomplishments ⚡ and feel awesome
 - It will give you something like - localhost blah blah
 - Open it in your browser to see the website
 - Whenever you update your code, you can see the update directly in the browser
+- Check the FILE: Contributing.Md for details.
